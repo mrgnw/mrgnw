@@ -2,6 +2,9 @@
 <a href="https://mrgnw.dev">⬢ mrgnw.dev
 </a>
 </h1>
+
+Python backend/data ETL by day & [Svelte](https://svelte.dev) JS by night
+
 <h3>
          <a href="https://twitter.com/mrgnw">
          <img src="https://svgshare.com/i/Mom.svg" width="14"></img> @mrgnw
