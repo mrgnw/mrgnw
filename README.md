@@ -6,8 +6,8 @@
 
 <h3>
          <a href="https://twitter.com/mrgnw">
-         @mrgnw
          <img src="https://svgshare.com/i/Mom.svg" width="14"></img> 
+         @mrgnw
          </a>
 </h3>
 
