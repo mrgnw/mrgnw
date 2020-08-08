@@ -1,6 +1,6 @@
 
 
-### [mrgnw.dev](https://mrgnw.dev)
+### [website](https://mrgnw.dev)
 ### [dotfiles](https://github.com/mrgnw/dotfiles)
 
 
