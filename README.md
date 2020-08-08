@@ -1,9 +1,8 @@
-<h1>
-<a href="https://mrgnw.dev">⬢ mrgnw.dev
-</a>
-</h1>
-
 Python backend/data ETL by day & [Svelte](https://svelte.dev) JS by night
+
+### [mrgnw.dev](https://mrgnw.dev)
+### [Dotfiles](https://github.com/mrgnw/dotfiles)
+
 
 <h3>
          <a href="https://twitter.com/mrgnw">
@@ -12,7 +11,7 @@ Python backend/data ETL by day & [Svelte](https://svelte.dev) JS by night
          </a>
 </h3>
 
-### [Dotfiles](https://github.com/mrgnw/dotfiles)
+
 
 <p>
          <a href="https://svelte.dev"><img src="https://raw.githubusercontent.com/sveltejs/branding/master/svelte-logo.svg" width="28"></img></a>
