@@ -11,6 +11,7 @@ Python backend/data ETL by day & [Svelte](https://svelte.dev) JS by night
          </a>
 </h3>
 
+### [Dotfiles](https://github.com/mrgnw/dotfiles)
 
 <p>
          <a href="https://svelte.dev"><img src="https://raw.githubusercontent.com/sveltejs/branding/master/svelte-logo.svg" width="28"></img></a>
