@@ -1,7 +1,7 @@
 
 
 ### [mrgnw.dev](https://mrgnw.dev)
-### [Dotfiles](https://github.com/mrgnw/dotfiles)
+### [dotfiles](https://github.com/mrgnw/dotfiles)
 
 
 <h3>
