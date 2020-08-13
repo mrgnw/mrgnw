@@ -25,4 +25,4 @@
          
 <div>
 
-Python backend/data ETL by day & [Svelte](https://svelte.dev) JS by night
+Python backend/data ETL by day & [SvelteJS](https://svelte.dev) by night
