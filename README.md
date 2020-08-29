@@ -2,6 +2,8 @@
 
 ### <a href="https://twitter.com/mrgnw"> <img src="https://svgshare.com/i/Mom.svg" width="14"></img> @mrgnw </a> • [website](https://mrgnw.dev) • [dotfiles](https://github.com/mrgnw/dotfiles) 
 
+Python backend/data ETL by day & [SvelteJS](https://svelte.dev) by night
+
 <div>
          <a href="https://svelte.dev"><img src="https://raw.githubusercontent.com/sveltejs/branding/master/svelte-logo.svg" width="28"></img></a>
          <a href="https://fastapi.tiangolo.com">
@@ -13,5 +15,3 @@
          </a>
          
 <div>
-
-Python backend/data ETL by day & [SvelteJS](https://svelte.dev) by night
