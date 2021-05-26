@@ -1,6 +1,7 @@
 
 
-### <a href="https://twitter.com/mrgnw"> <img src="https://svgshare.com/i/Mom.svg" width="14"></img> @mrgnw </a> • [website](https://mrgnw.dev) • [dotfiles](https://github.com/mrgnw/dotfiles) 
+
+### <a href="https://twitter.com/mrgnw"> @mrgnw </a> • [website](https://mrgnw.dev) • [dotfiles](https://github.com/mrgnw/dotfi
 
 Python backend/ETL, [SvelteJS](https://svelte.dev) frontend
 
