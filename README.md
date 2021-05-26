@@ -1,7 +1,7 @@
 
 
 
-### <a href="https://twitter.com/mrgnw"> @mrgnw </a> • [website](https://mrgnw.dev) • [dotfiles](https://github.com/mrgnw/dotfi
+### <a href="https://twitter.com/mrgnw"> @mrgnw </a> • [website](https://mrgnw.dev) • [dotfiles](https://github.com/mrgnw/dotfiles)
 
 Python backend/ETL, [SvelteJS](https://svelte.dev) frontend
 
