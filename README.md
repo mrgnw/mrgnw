@@ -3,7 +3,7 @@
 
 ### <a href="https://twitter.com/mrgnw"> @mrgnw </a> • [website](https://mrgnw.dev) • [dotfiles](https://github.com/mrgnw/dotfiles)
 
-Python backend/ETL, [SvelteJS](https://svelte.dev) frontend
+Python, [SvelteJS](https://svelte.dev) frontend
 
 <div>
          <a href="https://svelte.dev"><img src="https://raw.githubusercontent.com/sveltejs/branding/master/svelte-logo.svg" width="28"></img></a>
