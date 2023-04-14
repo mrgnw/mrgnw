@@ -3,7 +3,6 @@
 
 ### [morg.info](https://morg.info) • <a href="https://twitter.com/mrgnw"> @mrgnw </a> • [dotfiles](https://github.com/mrgnw/dotfiles)
 
-🐍🦊 Python + [Svelte](https://svelte.dev) 
 
 <div>
          <a href="https://svelte.dev"><img src="https://raw.githubusercontent.com/sveltejs/branding/master/svelte-logo.svg" width="28"></img></a>
