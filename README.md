@@ -1,7 +1,7 @@
 
 
 
-### [morg.info](https://morg.info) • <a href="https://twitter.com/mrgnw"> @mrgnw </a> • [dotfiles](https://github.com/mrgnw/dotfiles)
+### [morg.info](https://morg.info) • [@mrgnw](https://mastodon.social/@mrgnw) • [dotfiles](https://github.com/mrgnw/dotfiles)
 
 
 <div>
