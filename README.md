@@ -8,7 +8,7 @@
 - [scripts](https://github.com/mrgnw/scripts)
 
 ### Experiments
-- [🍍.xcc.es](https://🍍.xcc.es) multi-language translator
+- [🍍.xcc.es](https://🍍.xcc.es) multi-language translator ([ananas.xcc.es](https://ananas.xcc.es)
 
 ### Favorites
 
