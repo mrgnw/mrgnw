@@ -7,8 +7,8 @@
 - [dotfiles](https://github.com/mrgnw/dotfiles)
 - [scripts](https://github.com/mrgnw/scripts)
 
-### Experiments
-- [🍍.xcc.es](https://🍍.xcc.es) multi-language translator ([ananas.xcc.es](https://ananas.xcc.es))
+### Building
+- [🍍.xcc.es](https://🍍.xcc.es) multi-language translation tool ([ananas.xcc.es](https://ananas.xcc.es))
 
 ### Favorites
 
