@@ -6,7 +6,7 @@
 - [morganwill.com](https://morganwill.com) 
 - [dotfiles](https://github.com/mrgnw/dotfiles)
 - [scripts](https://github.com/mrgnw/scripts)
-- bsky [@xcc.es](https://bsky.app/profile/xcc.es)
+- 🦋 bsky [@xcc.es](https://bsky.app/profile/xcc.es)
 
 ### Building
 - [🍍.xcc.es](https://🍍.xcc.es) multi-language translation tool ([ananas.xcc.es](https://ananas.xcc.es)) (Svelte • Cloudflare • LLM)
