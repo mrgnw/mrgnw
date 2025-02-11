@@ -3,7 +3,8 @@
 
 ### [Morgan Williams](https://morganwill.com) 
 
-- [morganwill.com](https://morganwill.com) 
+- [morganwill.com](https://morganwill.com)
+- [blog.morganwill.com](https://blog.morganwill.com)
 - [dotfiles](https://github.com/mrgnw/dotfiles)
 - [scripts](https://github.com/mrgnw/scripts)
 - 🦋 bsky [@xcc.es](https://bsky.app/profile/xcc.es)
