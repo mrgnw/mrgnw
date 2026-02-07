@@ -10,7 +10,7 @@
 - 🦋 bsky [@xcc.es](https://bsky.app/profile/xcc.es)
 
 ### Building
-[ananas.xcc.es](https://ananas.xcc.es) 🍍 multi-language translation tool | Svelte • Cloudflare • LLM
+[anani.app](https://anani.app) 🍍 multi-language translation tool | Svelte • Cloudflare • LLM
 
 ### Résumé/CV
 [cv.morganwill.com](https://cv.morganwill.com) | SvelteKit • Cloudflare
