@@ -1,12 +1,9 @@
 
-### [Morgan Williams](https://morganwill.com)
+### [Morgan Williams](https://morganwill.com) • [🦋 bsky](https://bsky.app/profile/xcc.es) • [blog](https://blog.morganwill.com) • [dotfiles](https://github.com/mrgnw/dotfiles) • [scripts](https://github.com/mrgnw/scripts)
 
 Making apps, tools, and API's with Svelte, Tauri, and Python.
 
 Experienced with web, ecommerce, and data.
-
-- 🦋 bsky [@xcc.es](https://bsky.app/profile/xcc.es)
-- [blog](https://blog.morganwill.com) • [dotfiles](https://github.com/mrgnw/dotfiles) • [scripts](https://github.com/mrgnw/scripts)
 
 ### Building
  🍍 [anani.app](https://anani.app) Translate to all of your languages, at once | <img src="img/svelte.svg" width="16"></img> Svelte • Cloudflare • LLM
