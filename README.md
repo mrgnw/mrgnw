@@ -14,7 +14,7 @@
 
 [bits.xcc.es](https://bits.xcc.es/) ⚙️ where I put small projects that are usually too small for their own site
 
-[ubermind](https://bits.xcc.es/ubermind) Control your daemons. Rust CLI + web UI wrapper around [overmind](https://github.com/DarthSim/overmind)
+[ubermind](https://bits.xcc.es/ubermind) Control your daemons. 🦀 Rust CLI + web UI wrapper around [overmind](https://github.com/DarthSim/overmind)
 
 [textme.cc](https://textme.cc) 📲 an easier way to deal with phone numbers and messaging apps
 
