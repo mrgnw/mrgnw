@@ -12,9 +12,11 @@
 ### Building
 [anani.app](https://anani.app) 🍍 Translate to all of your languages, at once | Svelte • Cloudflare • LLM
 
-[textme.cc](https://textme.cc) 📲 an easier way to deal with phone numbers and messaging apps
-
 [bits.xcc.es](https://bits.xcc.es/) ⚙️ where I put small projects that are usually too small for their own site
+
+[ubermind](https://bits.xcc.es/ubermind) Control your daemons. Rust CLI + web UI
+
+[textme.cc](https://textme.cc) 📲 an easier way to deal with phone numbers and messaging apps
 
 ### Résumé/CV
 [cv.morganwill.com](https://cv.morganwill.com) | SvelteKit • Cloudflare
