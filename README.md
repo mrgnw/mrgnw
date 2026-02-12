@@ -10,11 +10,11 @@
 - 🦋 bsky [@xcc.es](https://bsky.app/profile/xcc.es)
 
 ### Building
-[anani.app](https://anani.app) 🍍 Translate to all of your languages, at once | Svelte • Cloudflare • LLM
+[anani.app](https://anani.app) 🍍 Translate to all of your languages, at once | <img src="https://raw.githubusercontent.com/sveltejs/branding/master/svelte-logo.svg" width="16"></img> Svelte • Cloudflare • LLM
 
 [bits.xcc.es](https://bits.xcc.es/) ⚙️ where I put small projects that are usually too small for their own site
 
-[ubermind](https://bits.xcc.es/ubermind) Control your daemons. 🦀 Rust CLI + <img src="https://raw.githubusercontent.com/sveltejs/branding/master/svelte-logo.svg" width="20"></img> web UI wrapper around [overmind](https://github.com/DarthSim/overmind)
+[ubermind](https://bits.xcc.es/ubermind) Control your daemons. 🦀 Rust CLI + <img src="https://raw.githubusercontent.com/sveltejs/branding/master/svelte-logo.svg" width="14"></img> web UI wrapper around [overmind](https://github.com/DarthSim/overmind)
 
 [textme.cc](https://textme.cc) 📲 an easier way to deal with phone numbers and messaging apps
 
