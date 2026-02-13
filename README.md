@@ -3,7 +3,7 @@
 
 Making apps, tools, and API's with Svelte, Tauri, and Python.
 
-Experienced with web, ecommerce, and data. (Still learning Tauri & Rust)
+Experienced with web, ecommerce, and data. Learning Tauri & Rust.
 
 ### Building
  🍍 [anani.app](https://anani.app) Translate to all of your languages, at once | <img src="img/svelte.svg" width="16"></img> Svelte • Cloudflare • LLM
