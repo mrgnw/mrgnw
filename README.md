@@ -1,7 +1,7 @@
 
 ### [Morgan Williams](https://morganwill.com) • [🦋 bsky](https://bsky.app/profile/xcc.es) • [blog](https://blog.morganwill.com) • [dotfiles](https://github.com/mrgnw/dotfiles) • [scripts](https://github.com/mrgnw/scripts)
 
-Making apps, tools, and API's with Svelte, Tauri, and Python.
+Making apps, tools, and API's with Svelte, Tauri, and Python. Still learning Tauri + Rust.
 
 Experienced with web, ecommerce, and data.
 
