@@ -10,7 +10,7 @@ Experienced with web, ecommerce, and data. Learning Tauri & Rust.
 
  ⚙️ [bits.xcc.es](https://bits.xcc.es/) where I put small projects that are usually too small for their own site
 
-<img src="img/ubermind.svg" width="28"></img>[ubermind](https://bits.xcc.es/ubermind) Unleash your daemons. 🦀 Rust CLI + <img src="img/svelte.svg" width="16"></img> web UI wrapper around [overmind](https://github.com/DarthSim/overmind)
+<img src="img/ubermind.svg" width="28"></img>[ubermind](https://bits.xcc.es/ubermind) Unleash your daemons. 🦀 Rust CLI <img src="img/svelte.svg" width="16"></img> web UI wrapper around [overmind](https://github.com/DarthSim/overmind)
 
  📲 [textme.cc](https://textme.cc) an easier way to deal with phone numbers and messaging apps
 
