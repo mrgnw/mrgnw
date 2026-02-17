@@ -5,6 +5,8 @@ Making API's, apps, and services with Svelte, Tauri, and Python.
 
 Experienced with web, ecommerce, and data. Learning Tauri & Rust.
 
+**Available for freelance** — [dev.morganwill.com](https://dev.morganwill.com) · [book a call](https://xcc.es/cal)
+
 ### Building
  🍍 [anani.app](https://anani.app) Translate to all of your languages, at once | <img src="img/svelte.svg" width="16"></img> Svelte • Cloudflare • LLM
 
