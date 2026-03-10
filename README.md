@@ -12,7 +12,7 @@ Experienced with web, ecommerce, and data. Learning Tauri & Rust.
 
  ⚙️ [bits.xcc.es](https://bits.xcc.es/) where I put small projects that are usually too small for their own site
 
- <img src="img/kagaya.svg" width="28"></img>[kagaya](https://github.com/mrgnw/kagaya) Control your daemons. 🦀 Native Rust process supervisor <img src="img/svelte.svg" width="16"></img> web UI
+ <img src="img/kagaya.svg" width="20"></img>[kagaya](https://github.com/mrgnw/kagaya) Control your daemons. 🦀 Native Rust process supervisor <img src="img/svelte.svg" width="16"></img> web UI
 
 
  📲 [textme.cc](https://textme.cc) an easier way to deal with phone numbers and messaging apps
@@ -23,10 +23,12 @@ Experienced with web, ecommerce, and data. Learning Tauri & Rust.
 ### Big fan
 <div>
          <a href="https://svelte.dev"><img src="img/svelte.svg" width="28"></img></a>
-         <a href="https://tauri.app"><img alt="tauri" src="img/tauri.svg" width="28"></img></a>
          <img src="img/python.svg" width="30"></img>
+         <a href="https://rust-lang.org"><img alt="rust" src="img/rust.svg" width="28"></img></a>
+         <a href="https://sqlite.org"><img alt="sqlite" src="img/sqlite.svg" width="28"></img></a>
          <a href="https://duckdb.org"><img alt="duckdb" src="img/duckdb-circle.svg" width="32"></img></a>
-         <a href="https://fastapi.tiangolo.com"><img alt="fastapi" src="img/fastapi.svg" width="30"></img></a>
          <a href="https://postgresql.org"><img src="img/postgresql.svg" width="28"></img></a>
+         <a href="https://fastapi.tiangolo.com"><img alt="fastapi" src="img/fastapi.svg" width="30"></img></a>
+         <a href="https://tauri.app"><img alt="tauri" src="img/tauri.svg" width="28"></img></a>
 <div>
 
