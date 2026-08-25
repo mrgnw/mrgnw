@@ -14,9 +14,9 @@ Experienced with web, ecommerce, and data.
 - 🍍 [anani.app](https://anani.app) — translate to all of your languages at once with Svelte, Cloudflare, and LLMs.
 
 ### Also building
+- Enframe - one photo can contain many stories, depending on how you frame it. Crop your photo to all of right frame for all of the dimensions you want to imagine.
+- 📲 [textme.cc](https://textme.cc) — an easier way to deal with phone numbers and messaging apps (particularly WhatsApp).
 
-- ⚙️ [bits.xcc.es](https://bits.xcc.es/) — small projects that are usually too small for their own site.
-- 📲 [textme.cc](https://textme.cc) — an easier way to deal with phone numbers and messaging apps.
 
 ### Stack I reach for
 <div>
@@ -31,4 +31,5 @@ Experienced with web, ecommerce, and data.
 </div>
 
 ### Experiments
+- ⚙️ [bits.xcc.es](https://bits.xcc.es/) — small projects that are usually too small for their own site.
 - <img src="img/kagaya.svg" width="18"></img> [kagaya](https://github.com/mrgnw/kagaya) — native Rust process supervisor for local dev services, with CLI, web UI, autostart, logs, readiness checks, and prebuilt releases. Learned a lot, but [pitchfork](https://pitchfork.jdx.dev) is much more throughtfully developed.
