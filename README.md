@@ -9,7 +9,6 @@ Experienced with web, ecommerce, and data.
 
 ### Recently shipped
 
-- <img src="img/kagaya.svg" width="18"></img> [kagaya](https://github.com/mrgnw/kagaya) — native Rust process supervisor for local dev services, with CLI, web UI, autostart, logs, readiness checks, and prebuilt releases.
 - [avify](https://github.com/mrgnw/avify) — Rust CLI for batch AVIF conversion with parallel encoding, RAW/HEIC support, and Lightroom XMP sidecar handling.
 - [anahtar](https://github.com/mrgnw/anahtar) — SvelteKit auth with passkeys, email OTP fallback, SQLite adapter, localized UI components, and tests.
 - 🍍 [anani.app](https://anani.app) — translate to all of your languages at once with Svelte, Cloudflare, and LLMs.
@@ -30,3 +29,6 @@ Experienced with web, ecommerce, and data.
          <a href="https://fastapi.tiangolo.com"><img alt="fastapi" src="img/fastapi.svg" width="30"></img></a>
          <a href="https://tauri.app"><img alt="tauri" src="img/tauri.svg" width="28"></img></a>
 </div>
+
+### Experiments
+- <img src="img/kagaya.svg" width="18"></img> [kagaya](https://github.com/mrgnw/kagaya) — native Rust process supervisor for local dev services, with CLI, web UI, autostart, logs, readiness checks, and prebuilt releases. Learned a lot, but [pitchfork](https://pitchfork.jdx.dev) is much more throughtfully developed.
