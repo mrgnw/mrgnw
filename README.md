@@ -14,7 +14,7 @@ Experienced with web, ecommerce, and data.
 - 🍍 [anani.app](https://anani.app) — translate to all of your languages at once with Svelte, Cloudflare, and LLMs.
 
 ### Also building
-- Enframe - one photo can contain many stories, depending on how you frame it. Crop your photo to all of right frame for all of the dimensions you want to imagine. native + mobile app. Rust, Tauri, Svelte. Adobe LightRoom integration.
+- Enframe - one photo can contain many stories, depending on how you frame it. Easily manage all of them - Crop your photo to the right frame for all of the dimensions you want to imagine. native + mobile app. Rust, Tauri, Svelte. Adobe LightRoom integration.
 - Galeria - A better way to share portfolios and shoots for photographers and their clients & models. Easier, faster downloads for everyone. Better control.
 - 📲 [textme.cc](https://textme.cc) — an easier way to deal with phone numbers and messaging apps (particularly WhatsApp).
 
