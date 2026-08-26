@@ -9,7 +9,7 @@ Experienced with web, ecommerce, and data.
 
 ### Projects
 
-- [anani.app](https://anani.app) — translate to all of your languages at once with Svelte, Cloudflare, and LLMs.
+- [anani.app](https://anani.app) — For people who use multiple languages - learn them all together. (Svelte, Cloudflare, translation API's, LLMs)
 - [avify](https://github.com/mrgnw/avify) — Rust CLI for batch AVIF conversion with parallel encoding, RAW/HEIC support, and Lightroom XMP sidecar handling. I use it to condense my screenshots up to 10x.
 - [anahtar](https://github.com/mrgnw/anahtar) — SvelteKit auth with passkeys, email OTP fallback, SQLite adapter, localized UI components, and tests.
 
