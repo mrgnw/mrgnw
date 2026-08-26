@@ -7,11 +7,11 @@ Experienced with web, ecommerce, and data.
 
 **Available for freelance** — [dev.morganwill.com](https://dev.morganwill.com) · [book a call](https://xcc.es/cal)
 
-### Recently shipped
+### Projects
 
-- [avify](https://github.com/mrgnw/avify) — Rust CLI for batch AVIF conversion with parallel encoding, RAW/HEIC support, and Lightroom XMP sidecar handling.
-- [anahtar](https://github.com/mrgnw/anahtar) — SvelteKit auth with passkeys, email OTP fallback, SQLite adapter, localized UI components, and tests.
 - 🍍 [anani.app](https://anani.app) — translate to all of your languages at once with Svelte, Cloudflare, and LLMs.
+- [avify](https://github.com/mrgnw/avify) — Rust CLI for batch AVIF conversion with parallel encoding, RAW/HEIC support, and Lightroom XMP sidecar handling. I use it to condense my screenshots up to 10x.
+- [anahtar](https://github.com/mrgnw/anahtar) — SvelteKit auth with passkeys, email OTP fallback, SQLite adapter, localized UI components, and tests.
 
 ### Also building
 - Enframe - one photo can contain many stories, depending on how you frame it. Easily manage all of them - Crop your photo to the right frame for all of the dimensions you want to imagine. native + mobile app. Rust, Tauri, Svelte. Adobe LightRoom integration.
